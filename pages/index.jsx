@@ -1,8 +1,7 @@
 function HomePage () {
-  
   return (
     <div>
-      SejaDev
+      SejaDev   
     </div>
   )
 }
