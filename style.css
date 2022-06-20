@@ -1,8 +1,21 @@
 * {
   padding: 0;
   margin: 0;
+  box-sizing: border-box;
+  font-family: 'Open Sans', sans-serif;
+  background-color: #050211;
 }
 
-body {
-  font-family: 'Roboto', sans-serif;
+.center{
+  margin: 0 auto;
+  max-width: 600px;
+  padding: 50px;
+  width: 100%;
+  border: 1px solid;
+  color: white;
+}
+
+.container{
+  margin-top: 100px;
+  text-align: center;
 }
